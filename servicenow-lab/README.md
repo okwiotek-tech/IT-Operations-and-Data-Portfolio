@@ -1,4 +1,4 @@
-ServiceNow ITSM Lab: Konfiguracja Formularzy i Obsługi Incydentów
+Kwiotek Oliwier - ServiceNow ITSM Lab: Konfiguracja Formularzy i Obsługi Incydentów
 
 ## 📌 Cel Projektu
 Projekt przedstawia praktyczną konfigurację modułu zarządzania incydentami (**Incident Management**) w platformie **ServiceNow**. Celem projektu było odwzorowanie rzeczywistych procesów wsparcia technicznego i operacyjnego oraz dostosowanie formularzy systemowych do precyzyjnego gromadzenia dokumentacji zgłoszeń.
